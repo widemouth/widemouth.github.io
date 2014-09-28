@@ -1,6 +1,6 @@
 Welcome to pdxsolarsystem!
 
-This is a reboot of the pdxsolarsytem project by OMSI. 
+This is a reboot of the pdxsolarsytem project originally by OMSI. 
 
 A few years ago we stumbled upon an old brass plate near OMSI with the
 pdxsolarsystem.com address stamped on it. After finding that the URL had lapsed
